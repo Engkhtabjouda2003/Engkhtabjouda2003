@@ -12,25 +12,16 @@ Computer Engineering & Intelligent Systems Student
 ---
 ### 👨‍💻 About Me
 I am a **Computer Engineering and Intelligent Systems student** with a strong passion for learning, exploring, and developing modern technologies.
-
 My academic and practical interests combine software development, artificial intelligence, embedded systems, computer networks, data analysis, databases, Linux, electronics, and renewable-energy applications.
-
 I enjoy transforming project requirements into organized and testable solutions, troubleshooting technical problems, and documenting projects in a clear and understandable way.
-
-🔭 I’m currently working on academic and personal engineering projects.
-
-🌱 I’m currently learning advanced embedded systems, Git and GitHub workflows, AI deployment, and IoT integration.
-
-💬 Ask me about Java, Python, OOP, Data Analysis, Cisco Packet Tracer, SQL, Linux, Embedded Systems, and IoT.
-
-⚡ I enjoy combining software, hardware, and intelligent systems to solve real-world problems.
-
-📝 I create technical reports, project explanations, presentations, and educational content.
-
-🎯 My goal is to build practical intelligent systems and continuously expand my engineering portfolio.
-
-🔗 Connect With Me
-
+- 🔭 I’m currently working on academic and personal engineering projects.
+- 🌱 I’m currently learning advanced embedded systems, Git and GitHub workflows, AI deployment, and IoT integration.
+- 💬 Ask me about **Java, Python, OOP, Data Analysis, Cisco Packet Tracer, SQL, Linux, Embedded Systems, and IoT**.
+- ⚡ I enjoy combining software, hardware, and intelligent systems to solve real-world problems.
+- 📝 I create technical reports, project explanations, presentations, and educational content.
+- 🎯 My goal is to build practical intelligent systems and continuously expand my engineering portfolio.
+---
+### 🔗 Connect With Me
 <p align="left">
   <a href="https://www.linkedin.com/in/khtab-m-jouda-457702405" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40"/>
@@ -216,7 +207,6 @@ An academic research project exploring decentralized microgrids and their potent
 <details>
   <summary><b>🛠️ Languages and Tools</b></summary>
   <br/>
-
   <p align="left">
     <a href="https://www.java.com/" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
@@ -308,17 +298,13 @@ An academic research project exploring decentralized microgrids and their potent
 <details>
   <summary><b>📈 GitHub Statistics</b></summary>
   <br/>
-
   <!-- Replace Engkhtabjouda2003 with your real GitHub username -->
-
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Engkhtabjouda2003&show_icons=true&hide_border=true" alt="GitHub Stats"/>
   </p>
-
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Engkhtabjouda2003&layout=compact&hide_border=true" alt="Top Languages"/>
   </p>
-
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Engkhtabjouda2003&hide_border=true" alt="GitHub Streak"/>
   </p>
